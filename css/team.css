@@ -1,0 +1,39 @@
+#wrapper{
+        margin: 0px 30px;
+            
+}
+
+.hover,.hs {
+    background-color: white;
+    border: none;
+    color: black;
+    
+    text-align: center;
+    font-size: 16px;
+    
+    transition: 1.0s;
+  }
+  
+  .hover:hover {
+    background-color: rgb(1, 149, 248);
+    color: white;
+
+  }
+
+  .effect{
+    transition:1.3s;
+      background:rgb(7, 148, 241);
+      width:100%;
+      
+
+
+  }
+  
+
+
+
+ 
+
+  .group{padding-top:30px;display:flex;flex-wrap:wrap;justify-content:space-between}
+  .rImg{width:100px;height:100px;margin:10px 20px 10px 0;display:inline-block;object-fit:cover;border-radius:100px}
+  
